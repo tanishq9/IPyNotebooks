@@ -1,0 +1,7 @@
+If your data is composed of a feature vector X = {x1, x2, ... x10} and your class labels Y = {y1, y2, .. y5}. Thus, a Bayes classifier identifies the correct class label as the one that maximizes the following formula :
+
+P(y/X) = P(X/y) * P(y) = P(x1,x2, ... x10/ y) * P(y)
+
+So for, it is still not Naive. However, it is hard to calculate P(x1,x2, ... x10/ Y), so we assume the features to be independent, this is what we call the Naive assumption, hence, we end up with the following formula instead
+
+P(y/X) = P(x1/y) * P(x2/y) * ... P(x10/y) * P(y)
