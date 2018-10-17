@@ -1,0 +1,21 @@
+CONDA COMMANDS :
+
+1. conda --version
+2. conda activate env_name
+3. conda deactivate
+4. conda list (Write this to see the packages installed in a particular conda env),(look for an astrix in front of current active conda env)
+5. conda create -n env_name python=3.x (eg) # Use this for creating new conda environments
+6. conda env list (get list of all conda environments)
+7. conda install package_name (Do this in a particular environment)
+
+Benefits of environment(s) :
+ We can create different environments for multiple projects , each project can has own set of packages which can be of different versions.  
+
+Something to do in jupyter to assure yourself of python version in ipy notebook and in conda : 
+
+# For ipy kernel , use this :
+ import sys
+ print(sys.version)
+ 
+# For conda env , use this :
+ !python -V 
