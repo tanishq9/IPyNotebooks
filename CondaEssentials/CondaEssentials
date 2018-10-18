@@ -19,3 +19,31 @@ Something to do in jupyter to assure yourself of python version in ipy notebook 
  
 # For conda env , use this :
  !python -V 
+
+
+
+Conda is a package manager to manage virtual environment and install packages. Here are some helpful commands using conda:
+
+# update conda in your default environment 
+$ conda upgrade conda
+$ conda upgrade --all
+
+# create a new environment with conda
+$ conda create -n [my-env-name]
+
+# activate the environment you created
+$ source activate [my-env-name]
+
+# take a look at the environment you created
+$ conda info
+$ conda list
+
+# install a package with conda and verify it's installed
+$ conda install numpy
+$ conda list
+
+# take a look at the list of environments you currently have
+$ conda info -e
+
+# remove an environment
+$ conda env remove --name [my-env-name]
