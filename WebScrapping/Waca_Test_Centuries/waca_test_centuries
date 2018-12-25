@@ -1,0 +1,90 @@
+No.,Score,Player,Team,Balls,Inns.,Opposing team,Date,Result
+1,131,Brian Luckhurst,England,301,1,Australia,11 December 1970,Drawn
+2,171,Ian Redpath,Australia,372,2,England,11 December 1970,Drawn
+3,108,Greg Chappell (1/2),Australia,218,2,England,11 December 1970,Drawn
+4,115*,John Edrich,England,332,3,Australia,11 December 1970,Drawn
+5,115,Ross Edwards,Australia,252,2,England,13 December 1974,Won
+6,103,Doug Walters,Australia,119,2,England,13 December 1974,Won
+7,156,Ian Chappell,Australia,261,1,West Indies,12 December 1975,Lost
+8,169,Roy Fredericks,West Indies,145,2,Australia,12 December 1975,Won
+9,149,Clive Lloyd,West Indies,186,2,Australia,12 December 1975,Won
+10,176,Bob Simpson,Australia,355,2,India,16 December 1977,Won
+11,127,Sunil Gavaskar,India,245,3,Australia,16 December 1977,Lost
+12,100,Mohinder Amarnath,India,175,3,Australia,16 December 1977,Lost
+13,105,Tony Mann,Australia,165,4,India,16 December 1977,Won
+14,102,David Gower (1/2),England,221,1,Australia,15 December 1978,Won
+15,129*,Javed Miandad,Pakistan,276,1,Australia,24 March 1979,Lost
+16,134*,Asif Iqbal,Pakistan,280,3,Australia,24 March 1979,Lost
+17,115,Allan Border (1/2),Australia,296,3,England,14 December 1979,Won
+18,106,Kim Hughes,Australia,198,3,Pakistan,13 November 1981,Won
+19,117,Greg Chappell (2/2),Australia,174,2,England,12 November 1982,Drawn
+20,115,Derek Randall,England,215,3,Australia,12 November 1982,Drawn
+21,159,Wayne Phillips,Australia,246,1,Pakistan,11 November 1983,Won
+22,141,Graham Yallop,Australia,274,1,Pakistan,11 November 1983,Won
+23,127,Larry Gomes,West Indies,297,1,Australia,9 November 1984,Won
+24,139,Jeff Dujon,West Indies,158,1,Australia,9 November 1984,Won
+25,162,Chris Broad,England,313,1,Australia,28 November 1986,Drawn
+26,136,David Gower (2/2),England,175,1,Australia,28 November 1986,Drawn
+27,133,Jack Richards,England,207,1,Australia,28 November 1986,Drawn
+28,125,Allan Border (2/2),Australia,282,2,England,28 November 1986,Drawn
+29,102,Dean Jones (1/2),Australia,174,1,Sri Lanka,12 February 1988,Won
+30,146,Viv Richards,West Indies,150,1,Australia,2 December 1988,Won
+31,111,Graeme Wood,Australia,176,2,West Indies,2 December 1988,Lost
+32,100,Desmond Haynes,West Indies,194,3,Australia,2 December 1988,Won
+33,200,David Boon (1/2),Australia,326,1,New Zealand,24 November 1989,Drawn
+34,146*,Mark Greatbatch,New Zealand,485,3,Australia,24 November 1989,Drawn
+35,107,David Boon (2/2),Australia,304,1,India,1 February 1992,Won
+36,114,Sachin Tendulkar,India,161,2,Australia,1 February 1992,Lost
+37,150*,Dean Jones (2/2),Australia,295,3,India,1 February 1992,Won
+38,101,Tom Moody,Australia,149,3,India,1 February 1992,Won
+39,113*,Ian Healy,Australia,181,1,New Zealand,12 November 1993,Drawn
+40,143,Andrew Jones,New Zealand,283,2,Australia,12 November 1993,Drawn
+41,142*,Mark Taylor,Australia,255,3,New Zealand,12 November 1993,Drawn
+42,124,Michael Slater (1/2),Australia,231,1,England,3 February 1995,Won
+43,123,Graham Thorpe,England,218,2,Australia,3 February 1995,Lost
+44,115,Greg Blewett,Australia,158,3,England,3 February 1995,Won
+45,219,Michael Slater (2/2),Australia,321,2,Sri Lanka,8 December 1995,Won
+46,111,Mark Waugh (1/2),Australia,223,2,Sri Lanka,8 December 1995,Won
+47,119,Hashan Tillakaratne,Sri Lanka,206,3,Australia,8 December 1995,Lost
+48,132,Brian Lara,West Indies,183,2,Australia,1 February 1997,Won
+49,144,Justin Langer (1/2),Australia,286,2,Pakistan,26 November 1999,Won
+50,197,Ricky Ponting,Australia,288,2,Pakistan,26 November 1999,Won
+51,115,Ijaz Ahmed,Pakistan,160,3,Australia,26 November 1999,Lost
+52,119,Mark Waugh (2/2),Australia,175,2,West Indies,1 December 2000,Won
+53,104,Lou Vincent,New Zealand,208,1,Australia,30 November 2001,Drawn
+54,105,Stephen Fleming,New Zealand,222,1,Australia,30 November 2001,Drawn
+55,156*,Nathan Astle,New Zealand,275,1,Australia,30 November 2001,Drawn
+56,110,Adam Parore,New Zealand,243,1,Australia,30 November 2001,Drawn
+57,380,Matthew Hayden,Australia,437,1,Zimbabwe,9 October 2003,Won
+58,113*,Adam Gilchrist (1/2),Australia,94,1,Zimbabwe,9 October 2003,Won
+59,191,Justin Langer (2/2),Australia,280,1,Pakistan,16 December 2004,Won
+60,100*,Damien Martyn,Australia,121,3,Pakistan,16 December 2004,Won
+61,203*,Brad Hodge,Australia,332,3,South Africa,16 December 2005,Drawn
+62,102*,Jacques Rudolph,South Africa,283,4,Australia,16 December 2005,Drawn
+63,103,Michael Hussey (1/2),Australia,156,3,England,14 December 2006,Won
+64,135*,Michael Clarke,Australia,164,3,England,14 December 2006,Won
+65,102*,Adam Gilchrist (2/2),Australia,59,3,England,14 December 2006,Won
+66,116,Alastair Cook,England,290,4,Australia,14 December 2006,Lost
+67,108,Graeme Smith,South Africa,147,4,Australia,17 December 2008,Won
+68,106*,AB de Villiers (1/2),South Africa,186,4,Australia,17 December 2008,Won
+69,102,Chris Gayle,West Indies,72,2,Australia,16 December 2009,Lost
+70,116,Michael Hussey (2/2),Australia,172,3,England,16 December 2010,Won
+71,180,David Warner (1/3),Australia,159,2,India,13 January 2012,Won
+72,196,Hashim Amla,South Africa,221,3,Australia,30 November 2012,Won
+73,169,AB de Villiers (2/2),South Africa,184,3,Australia,30 November 2012,Won
+74,111,Steve Smith (1/3),Australia,208,1,England,13 December 2013,Won
+75,112,David Warner (2/3),Australia,140,3,England,13 December 2013,Won
+76,103,Shane Watson,Australia,108,3,England,13 December 2013,Won
+77,120,Ben Stokes,England,195,4,Australia,13 December 2013,Lost
+78,253,David Warner (3/3),Australia,286,1,New Zealand,13 November 2015,Drawn
+79,121,Usman Khawaja,Australia,186,1,New Zealand,13 November 2015,Drawn
+80,166,Kane Williamson,New Zealand,250,2,Australia,13 November 2015,Drawn
+81,290,Ross Taylor,New Zealand,374,2,Australia,13 November 2015,Drawn
+82,138,Steve Smith (2/3),Australia,185,3,New Zealand,13 November 2015,Drawn
+83,119,Adam Voges,Australia,240,3,New Zealand,13 November 2015,Drawn
+84,127,Dean Elgar,South Africa,316,3,Australia,3 November 2016,Won
+85,141,JP Duminy,South Africa,225,3,Australia,3 November 2016,Won
+86,140,Dawid Malan,England,227,1,Australia,14 December 2017,Lost
+87,119,Jonny Bairstow,England,215,1,Australia,14 December 2017,Lost
+88,239,Steve Smith (3/3),Australia,399,2,England,14 December 2017,Won
+89,181,Mitchell Marsh,Australia,236,2,England,14 December 2017,Won
