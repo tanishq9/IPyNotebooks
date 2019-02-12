@@ -1,3 +1,4 @@
+
 CONDA COMMANDS :
 
 1. conda --version
@@ -47,3 +48,10 @@ $ conda info -e
 
 # remove an environment
 $ conda env remove --name [my-env-name]
+
+Other commands :
+jupyter kernelspec list (do it when inside conda environment)
+jupyter kernelspec uninstall [kernelname]
+
+To install Python3 kernel do : ipython3 kernel install
+
